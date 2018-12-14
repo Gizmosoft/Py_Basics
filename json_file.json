@@ -1,0 +1,18 @@
+{
+  "people": [
+    {
+      "name": "Kartikey Hebbar",
+      "email": [
+        "kvh@gmail.com"
+      ],
+      "has_license": true
+    },
+    {
+      "name": "Rajat Sahay",
+      "email": [
+        "Sahay@gmail.com"
+      ],
+      "has_license": false
+    }
+  ]
+}
